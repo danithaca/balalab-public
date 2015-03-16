@@ -1,0 +1,1 @@
+balalab is a tool to encourage people with different political opinions talking to each other and thus reduce political polarization for the american society. more info can be found at balalab.com. we haven't decided which part of the code is for open source. but just to create a stub here.
